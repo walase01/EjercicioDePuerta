@@ -8,8 +8,6 @@ namespace door
 
         private const int key = 12345;
 
-
-
         public string Close()
         {
             if (estadoPuerta == "Close")
