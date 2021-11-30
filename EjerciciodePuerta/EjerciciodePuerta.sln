@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjerciciodePuerta", "EjerciciodePuerta\EjerciciodePuerta.csproj", "{3A0A726C-CE2D-4B46-A928-D8D5CEF49F2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "door", "door\door.csproj", "{F035186C-AF97-4A2C-BD87-C45A9D8FE609}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectDoor", "TestProjectDoor\TestProjectDoor.csproj", "{6895F05E-7F8D-4B29-AAE3-EE563D9E6F20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3A0A726C-CE2D-4B46-A928-D8D5CEF49F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A0A726C-CE2D-4B46-A928-D8D5CEF49F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A0A726C-CE2D-4B46-A928-D8D5CEF49F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F035186C-AF97-4A2C-BD87-C45A9D8FE609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F035186C-AF97-4A2C-BD87-C45A9D8FE609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F035186C-AF97-4A2C-BD87-C45A9D8FE609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F035186C-AF97-4A2C-BD87-C45A9D8FE609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6895F05E-7F8D-4B29-AAE3-EE563D9E6F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6895F05E-7F8D-4B29-AAE3-EE563D9E6F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6895F05E-7F8D-4B29-AAE3-EE563D9E6F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6895F05E-7F8D-4B29-AAE3-EE563D9E6F20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

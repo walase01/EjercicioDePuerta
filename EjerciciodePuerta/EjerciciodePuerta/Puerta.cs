@@ -8,6 +8,6 @@ namespace EjerciciodePuerta
 {
     public class Puerta
     {
-
+        
     }
 }

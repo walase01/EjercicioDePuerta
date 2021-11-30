@@ -6,7 +6,11 @@ namespace EjerciciodePuerta
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Puerta puerta = new Puerta();
+
+            Console.WriteLine(puerta.Close());
+
+            Console.ReadKey();
         }
     }
 }
