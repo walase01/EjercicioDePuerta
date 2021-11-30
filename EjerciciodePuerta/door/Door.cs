@@ -4,6 +4,11 @@ namespace door
 {
     public class Door
     {
+        public bool open = false;
+        public bool close = false;
+        public bool _lock = false;
+        public bool _unLock = false;
+
         private static string estadoPuerta = "Open";
 
         private const int key = 12345;
@@ -110,5 +115,23 @@ namespace door
                 return false;
             }
         }
+
+        public void OpenAndUnlocked(int keyuser)
+        {
+
+        }
+        public void OpenAndLocked(int keyuser)
+        {
+
+        }
+        public void ClosedAndUnlocked(int keyuser)
+        {
+
+        }
+        public void ClosedAndLocked(int keyuser)
+        {
+
+        }
+
     }
 }
